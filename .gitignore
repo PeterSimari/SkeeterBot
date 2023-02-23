@@ -1,2 +1,5 @@
 #Ignore config file
 config.json
+
+#Ignore node modules... Dont need em
+node_modules
